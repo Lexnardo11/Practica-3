@@ -1,2 +1,2 @@
-# Practica-3
-Archivos de la practica 3 de la materia Programación de Aplicaciones Web
+# Practica3_html
+Archivos iniciales para practicar el uso de github
